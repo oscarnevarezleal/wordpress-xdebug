@@ -64,7 +64,7 @@ Example configuration file `.vscode/launch.json`:
 
 ## Docker Hub
 
-Published as [automattic/wordpress-xdebug](https://hub.docker.com/r/automattic/wordpress-xdebug) in **Docker Hub**.
+Published as [insane/wordpress-xdebug](https://hub.docker.com/repository/docker/insane/wordpress-xdebug) in **Docker Hub**.
 
 ## License
 
